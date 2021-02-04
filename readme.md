@@ -1,3 +1,16 @@
+# Description
+
+sử dụng thuật toán [lát cắt cực tiểu trên đồ thị có hướng ](https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem) để xây dựng lịch học dựa trên lịch bận của thành viên.
+
+Một khóa có rất đông sinh viên, các sinh viên được phân vào n nhóm, mỗi nhóm học 2 buổi trong tuần.
+
+Với các yêu cầu : 
+
+1. trong 1 nhóm phải có >=8 em.
+2. 1 nhóm phải học cách nhau ít nhất là 1 ngày....
+3. lịch học phải phù hợp lịch bận của giảng viên.
+4. ....
+
 # SETUP
 
 1. python3 -m venv env
