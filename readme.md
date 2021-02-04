@@ -17,3 +17,21 @@ file_index.csv la file name extract tu lich ban
 limit_selected : recommend <= 10^5, hoac <=10^4 va chay nhieu lan de tim ket qua thoa man rui dung.
 
 multi_gpu: neu may co gpu thi se tang toc do x5 nguoc lai khong nen dung multi_gpu
+
+# examples 
+
+## file lich ban 
+
+![](./statics/lich.png)
+
+---
+
+## file index 
+
+![](./statics/index.png)
+
+---
+
+## file ket qua thuat toan voi limit = 100, run 2 lan \sum_time = 2s.
+
+![](./statics/kq.png)
