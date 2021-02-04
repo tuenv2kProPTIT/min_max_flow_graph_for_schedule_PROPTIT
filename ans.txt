@@ -1,0 +1,12 @@
+{'T 2 kip 3 | T 7 kip 1': ' NP VH U QT B DM DD HD L', 'T 5 kip 3 | T 7 kip 3': ' PH TD HU D TU TH TB MP XM', 'T 7 kip 2 | T 3 kip 3': ' DL M T C HP VD BD HT'}
+{'T 2 kip 3 | T 7 kip 1': ' NP VH U QT DM DD HD L HT', 'T 7 kip 2 | T 3 kip 3': ' HU M D T TU TB C HP VD', 'T 5 kip 3 | T 7 kip 3': ' DL PH TD B TH MP XM BD'}
+{'T 2 kip 3 | T 7 kip 2': ' NP VH U QT B DM DD HD L', 'T 5 kip 3 | T 7 kip 3': ' PH TD HU D TU TH TB MP XM', 'T 7 kip 1 | T 3 kip 3': ' DL M T C HP VD BD HT'}
+{'T 2 kip 3 | T 7 kip 2': ' NP VH U QT DM DD HD L HT', 'T 7 kip 1 | T 3 kip 3': ' HU M D T TU TB C HP VD', 'T 5 kip 3 | T 7 kip 3': ' DL PH TD B TH MP XM BD'}
+{'T 3 kip 3 | T 7 kip 1': ' TD NP VH U HU M QT D VD', 'T 7 kip 3 | T 5 kip 3': ' PH B DD TU TH TB MP XM BD', 'T 2 kip 3 | T 7 kip 2': ' DL DM HD T C HP L HT'}
+{'T 3 kip 3 | T 7 kip 1': ' NP VH U M QT D HP VD HT', 'T 2 kip 3 | T 7 kip 2': ' DM DD HD T TU TB C MP L', 'T 5 kip 3 | T 7 kip 3': ' DL PH TD HU B TH XM BD'}
+{'T 3 kip 3 | T 7 kip 2': ' TD NP VH U HU M QT D VD', 'T 5 kip 3 | T 7 kip 3': ' PH B DD TU TH TB MP XM BD', 'T 7 kip 1 | T 2 kip 3': ' DL DM HD T C HP L HT'}
+{'T 3 kip 3 | T 7 kip 2': ' NP VH U M QT D HP VD HT', 'T 2 kip 3 | T 7 kip 1': ' DM DD HD T TU TB C MP L', 'T 5 kip 3 | T 7 kip 3': ' DL PH TD HU B TH XM BD'}
+{'T 5 kip 3 | T 7 kip 3': ' PH HU B D DD TU TH MP XM', 'T 7 kip 1 | T 2 kip 3': ' VH U QT DM HD T TB C L', 'T 7 kip 2 | T 3 kip 3': ' DL TD NP M HP VD BD HT'}
+{'T 5 kip 3 | T 7 kip 3': ' DL PH TD HU B D DD TU TH', 'T 7 kip 1 | T 3 kip 3': ' VH U M QT HD T TB C VD', 'T 2 kip 3 | T 7 kip 2': ' NP DM MP HP XM L BD HT'}
+{'T 5 kip 3 | T 7 kip 3': ' PH HU B D DD TU TH MP XM', 'T 2 kip 3 | T 7 kip 2': ' VH U QT DM HD T TB C L', 'T 7 kip 1 | T 3 kip 3': ' DL TD NP M HP VD BD HT'}
+{'T 5 kip 3 | T 7 kip 3': ' DL PH TD HU B D DD TU TH', 'T 7 kip 2 | T 3 kip 3': ' VH U M QT HD T TB C VD', 'T 7 kip 1 | T 2 kip 3': ' NP DM MP HP XM L BD HT'}
